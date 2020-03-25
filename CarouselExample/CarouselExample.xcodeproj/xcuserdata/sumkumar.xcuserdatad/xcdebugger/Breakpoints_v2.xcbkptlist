@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96497A6E-69D3-4AA4-9889-A25A87F8E633"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB2748BA-7468-4CBA-9D27-3C4BF9EE4399"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarouselExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB2748BA-7468-4CBA-9D27-3C4BF9EE4399 - b9f59629348dc3bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarouselExample.ViewController.(updateDataSource in _A46263EFB6CF526BFEBF06F83E8F8B7B)() -&gt; ()"
+                  moduleName = "CarouselExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumkumar/Documents/GitHub/Carousel-iOS/CarouselExample/CarouselExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "FB2748BA-7468-4CBA-9D27-3C4BF9EE4399 - 3143e14c5389a795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CarouselExample.Item, __C.UICollectionViewCell) -&gt; () in CarouselExample.ViewController.(updateDataSource in _A46263EFB6CF526BFEBF06F83E8F8B7B)() -&gt; ()"
+                  moduleName = "CarouselExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumkumar/Documents/GitHub/Carousel-iOS/CarouselExample/CarouselExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5DB8802-94B2-4FF5-8BE1-FBB22F5A082E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarouselExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
